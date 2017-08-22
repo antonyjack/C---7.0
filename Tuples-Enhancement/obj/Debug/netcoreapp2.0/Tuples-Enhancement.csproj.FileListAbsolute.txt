@@ -1,0 +1,10 @@
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\bin\Debug\netcoreapp2.0\Tuples-Enhancement.deps.json
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\bin\Debug\netcoreapp2.0\Tuples-Enhancement.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\bin\Debug\netcoreapp2.0\Tuples-Enhancement.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\bin\Debug\netcoreapp2.0\Tuples-Enhancement.dll
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\bin\Debug\netcoreapp2.0\Tuples-Enhancement.pdb
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\obj\Debug\netcoreapp2.0\Tuples-Enhancement.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\obj\Debug\netcoreapp2.0\Tuples-Enhancement.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\obj\Debug\netcoreapp2.0\Tuples-Enhancement.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\obj\Debug\netcoreapp2.0\Tuples-Enhancement.dll
+D:\Antony\Blog Technical\C# 7.0\Tuples-Enhancement\obj\Debug\netcoreapp2.0\Tuples-Enhancement.pdb

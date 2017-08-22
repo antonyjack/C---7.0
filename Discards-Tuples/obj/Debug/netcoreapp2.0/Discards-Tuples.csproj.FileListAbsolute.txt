@@ -1,0 +1,10 @@
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\bin\Debug\netcoreapp2.0\Discards-Tuples.deps.json
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\bin\Debug\netcoreapp2.0\Discards-Tuples.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\bin\Debug\netcoreapp2.0\Discards-Tuples.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\bin\Debug\netcoreapp2.0\Discards-Tuples.dll
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\bin\Debug\netcoreapp2.0\Discards-Tuples.pdb
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\obj\Debug\netcoreapp2.0\Discards-Tuples.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\obj\Debug\netcoreapp2.0\Discards-Tuples.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\obj\Debug\netcoreapp2.0\Discards-Tuples.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\obj\Debug\netcoreapp2.0\Discards-Tuples.dll
+D:\Antony\Blog Technical\C# 7.0\Discards-Tuples\obj\Debug\netcoreapp2.0\Discards-Tuples.pdb
