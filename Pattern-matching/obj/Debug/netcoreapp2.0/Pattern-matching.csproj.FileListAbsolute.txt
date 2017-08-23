@@ -1,0 +1,10 @@
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\bin\Debug\netcoreapp2.0\Pattern-matching.deps.json
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\bin\Debug\netcoreapp2.0\Pattern-matching.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\bin\Debug\netcoreapp2.0\Pattern-matching.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\bin\Debug\netcoreapp2.0\Pattern-matching.dll
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\bin\Debug\netcoreapp2.0\Pattern-matching.pdb
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\obj\Debug\netcoreapp2.0\Pattern-matching.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\obj\Debug\netcoreapp2.0\Pattern-matching.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\obj\Debug\netcoreapp2.0\Pattern-matching.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\obj\Debug\netcoreapp2.0\Pattern-matching.dll
+D:\Antony\Blog Technical\C# 7.0\Pattern-matching\obj\Debug\netcoreapp2.0\Pattern-matching.pdb

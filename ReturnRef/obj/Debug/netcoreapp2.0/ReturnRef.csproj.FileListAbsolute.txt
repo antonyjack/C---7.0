@@ -1,0 +1,10 @@
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.deps.json
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.dll
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.pdb
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.dll
+D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.pdb

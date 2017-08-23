@@ -1,0 +1,10 @@
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\bin\Debug\netcoreapp2.0\LocalFunction.deps.json
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\bin\Debug\netcoreapp2.0\LocalFunction.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\bin\Debug\netcoreapp2.0\LocalFunction.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\bin\Debug\netcoreapp2.0\LocalFunction.dll
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\bin\Debug\netcoreapp2.0\LocalFunction.pdb
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\obj\Debug\netcoreapp2.0\LocalFunction.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\obj\Debug\netcoreapp2.0\LocalFunction.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\obj\Debug\netcoreapp2.0\LocalFunction.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\obj\Debug\netcoreapp2.0\LocalFunction.dll
+D:\Antony\Blog Technical\C# 7.0\LocalFunction\obj\Debug\netcoreapp2.0\LocalFunction.pdb
