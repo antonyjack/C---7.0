@@ -1,0 +1,10 @@
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/bin/Debug/netcoreapp2.0/Numeric-Literal.deps.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/bin/Debug/netcoreapp2.0/Numeric-Literal.runtimeconfig.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/bin/Debug/netcoreapp2.0/Numeric-Literal.runtimeconfig.dev.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/bin/Debug/netcoreapp2.0/Numeric-Literal.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/bin/Debug/netcoreapp2.0/Numeric-Literal.pdb
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.csproj.CoreCompileInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.AssemblyInfoInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.AssemblyInfo.cs
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.pdb

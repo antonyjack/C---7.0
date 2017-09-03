@@ -1,10 +1,20 @@
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.deps.json
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.runtimeconfig.json
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.runtimeconfig.dev.json
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.dll
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\bin\Debug\netcoreapp2.0\ReturnRef.pdb
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.csproj.CoreCompileInputs.cache
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.AssemblyInfoInputs.cache
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.AssemblyInfo.cs
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.dll
-D:\Antony\Blog Technical\C# 7.0\ReturnRef\obj\Debug\netcoreapp2.0\ReturnRef.pdb
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.deps.json
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.runtimeconfig.json
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.runtimeconfig.dev.json
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.dll
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.pdb
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.csproj.CoreCompileInputs.cache
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.AssemblyInfoInputs.cache
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.AssemblyInfo.cs
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.dll
+D:/Antony/Blog Technical/C# 7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.pdb
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.deps.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.runtimeconfig.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.runtimeconfig.dev.json
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/bin/Debug/netcoreapp2.0/ReturnRef.pdb
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.csproj.CoreCompileInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.AssemblyInfoInputs.cache
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.AssemblyInfo.cs
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.dll
+/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/ReturnRef/obj/Debug/netcoreapp2.0/ReturnRef.pdb
