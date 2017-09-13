@@ -1,6 +1,6 @@
 ## Discards
 
-> `Discards` are temporary, write-only variables used in assignments when you don't care about the value assigned. `_`only means "discard this parameter" if you declare it and use it.
+> `Discards` are temporary, write-only variables used in assignments when you don't care about the value assigned. `_` means "discard this parameter" if you declare it and use it.
 
 ```c#
 //Method
