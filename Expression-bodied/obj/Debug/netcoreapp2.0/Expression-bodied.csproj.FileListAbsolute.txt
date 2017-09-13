@@ -8,3 +8,13 @@
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Expression-bodied/obj/Debug/netcoreapp2.0/Expression-bodied.AssemblyInfo.cs
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Expression-bodied/obj/Debug/netcoreapp2.0/Expression-bodied.dll
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Expression-bodied/obj/Debug/netcoreapp2.0/Expression-bodied.pdb
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\bin\Debug\netcoreapp2.0\Expression-bodied.deps.json
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\bin\Debug\netcoreapp2.0\Expression-bodied.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\bin\Debug\netcoreapp2.0\Expression-bodied.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\bin\Debug\netcoreapp2.0\Expression-bodied.dll
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\bin\Debug\netcoreapp2.0\Expression-bodied.pdb
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\obj\Debug\netcoreapp2.0\Expression-bodied.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\obj\Debug\netcoreapp2.0\Expression-bodied.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\obj\Debug\netcoreapp2.0\Expression-bodied.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\obj\Debug\netcoreapp2.0\Expression-bodied.dll
+D:\Antony\Blog Technical\C# 7.0\Expression-bodied\obj\Debug\netcoreapp2.0\Expression-bodied.pdb

@@ -18,7 +18,7 @@ namespace Tuples_Enhancement
             WriteLine($"Age is : {NamesValues.Age}");
 
             //Below line is wrong
-            //(stirng Name, string Gender) = (First: "Aravinda", Second:"Male");
+            //(string Name, string Gender) = (First: "Aravinda", Second:"Male");
             
             var E = new Example(2,22);
             (int One, int Two, string Message) = E;

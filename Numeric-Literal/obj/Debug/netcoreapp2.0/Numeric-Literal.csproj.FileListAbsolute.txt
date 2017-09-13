@@ -8,3 +8,13 @@
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.AssemblyInfo.cs
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.dll
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Numeric-Literal/obj/Debug/netcoreapp2.0/Numeric-Literal.pdb
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\bin\Debug\netcoreapp2.0\Numeric-Literal.deps.json
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\bin\Debug\netcoreapp2.0\Numeric-Literal.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\bin\Debug\netcoreapp2.0\Numeric-Literal.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\bin\Debug\netcoreapp2.0\Numeric-Literal.dll
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\bin\Debug\netcoreapp2.0\Numeric-Literal.pdb
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\obj\Debug\netcoreapp2.0\Numeric-Literal.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\obj\Debug\netcoreapp2.0\Numeric-Literal.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\obj\Debug\netcoreapp2.0\Numeric-Literal.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\obj\Debug\netcoreapp2.0\Numeric-Literal.dll
+D:\Antony\Blog Technical\C# 7.0\Numeric-Literal\obj\Debug\netcoreapp2.0\Numeric-Literal.pdb

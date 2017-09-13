@@ -27,8 +27,8 @@ namespace Generalized_async_returns
 
         public ValueTask<bool> AddStudent(string name) => new ValueTask<bool>(Add(name));
 
-        public async Task<bool> Add(string name)
-        {            
+        async Task<bool> Add(string name)
+        {                 
             Students.Add(name);
             return true;
         }

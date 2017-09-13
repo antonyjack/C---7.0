@@ -6,6 +6,9 @@ namespace Expression_bodied
     {
         //Expression bodied constructor
         public Student() => Console.WriteLine("Expression bodied constructor working fine.");
+        
+        //Expression bodied distructor
+        ~Student() => Console.WriteLine("Expression bodied distructor working fine.");
 
         //Expression bodied property
         private string _Name;
@@ -15,9 +18,6 @@ namespace Expression_bodied
             set => _Name = value ?? "Default";
         }
 
-        public void Display() => Console.WriteLine($"Welcome {this.Name}");
-        
-        //Expression bodied distructor
-        ~Student() => Console.WriteLine("Expression bodied distructor working fine.");
+        public void Display() => Console.WriteLine($"Welcome {this.Name}");                
     }
 }

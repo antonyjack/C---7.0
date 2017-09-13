@@ -8,3 +8,13 @@
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Throws-Expression/bin/Debug/netcoreapp2.0/Throws-Expression.pdb
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Throws-Expression/obj/Debug/netcoreapp2.0/Throws-Expression.dll
 /media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Throws-Expression/obj/Debug/netcoreapp2.0/Throws-Expression.pdb
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\bin\Debug\netcoreapp2.0\Throws-Expression.deps.json
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\bin\Debug\netcoreapp2.0\Throws-Expression.runtimeconfig.json
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\bin\Debug\netcoreapp2.0\Throws-Expression.runtimeconfig.dev.json
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\bin\Debug\netcoreapp2.0\Throws-Expression.dll
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\bin\Debug\netcoreapp2.0\Throws-Expression.pdb
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\obj\Debug\netcoreapp2.0\Throws-Expression.csproj.CoreCompileInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\obj\Debug\netcoreapp2.0\Throws-Expression.AssemblyInfoInputs.cache
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\obj\Debug\netcoreapp2.0\Throws-Expression.AssemblyInfo.cs
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\obj\Debug\netcoreapp2.0\Throws-Expression.dll
+D:\Antony\Blog Technical\C# 7.0\Throws-Expression\obj\Debug\netcoreapp2.0\Throws-Expression.pdb

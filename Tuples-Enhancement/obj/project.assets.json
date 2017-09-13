@@ -664,29 +664,32 @@
     ]
   },
   "packageFolders": {
-    "/home/antony/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\antony_s\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Tuples-Enhancement/Tuples-Enhancement.csproj",
+      "projectUniqueName": "D:\\Antony\\Blog Technical\\C# 7.0\\Tuples-Enhancement\\Tuples-Enhancement.csproj",
       "projectName": "Tuples-Enhancement",
-      "projectPath": "/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Tuples-Enhancement/Tuples-Enhancement.csproj",
-      "packagesPath": "/home/antony/.nuget/packages/",
-      "outputPath": "/media/antony/c7b87cd2-9172-4929-8873-04a84b9d204f/Dotnet/C---7.0/Tuples-Enhancement/obj/",
+      "projectPath": "D:\\Antony\\Blog Technical\\C# 7.0\\Tuples-Enhancement\\Tuples-Enhancement.csproj",
+      "packagesPath": "C:\\Users\\antony_s\\.nuget\\packages\\",
+      "outputPath": "D:\\Antony\\Blog Technical\\C# 7.0\\Tuples-Enhancement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/antony/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\antony_s\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "http://packages.nuget.org/v1/FeedService.svc/": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {},
+        "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
